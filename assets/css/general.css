@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Pacifico&display=swap');
+
+body {
+    margin: 0px;
+    background-color: #2b2b2b;
+}
+
+.top-bar {
+    clear: both;
+    padding:  0px 0px;
+    overflow: hidden;
+    background-color: #3c3f41;
+    color: white;
+}
+
+.logo {
+    padding-left: 15px;
+    margin: 7px;
+    float: left;
+    font-family: 'Pacifico', cursive;
+}
+
+.top-bar-link {
+    margin: 20px;
+    padding-right: 30px;
+    float: right;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+
+.top-bar-link:link {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+.top-bar-link:visited {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+
+.top-bar-link:hover {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+
+.top-bar-link:active {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
